@@ -1,0 +1,5 @@
+Credentials cache: API:7639AFBB-33AB-4C34-A9E3-6ACA6964820E
+        Principal: jcuesta-@42MADRID.COM
+
+  Issued                Expires               Principal
+Aug 14 16:20:51 2021  Aug 15 02:20:45 2021  krbtgt/42MADRID.COM@42MADRID.COM
